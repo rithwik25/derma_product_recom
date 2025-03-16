@@ -1,0 +1,10 @@
+python = 3.10
+ipykernel
+pandas
+tiktoken
+langchain-openai
+faiss-cpu
+langchain
+langchain-core
+tavily-python
+langgraph
